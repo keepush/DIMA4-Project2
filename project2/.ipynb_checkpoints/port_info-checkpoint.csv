@@ -1,0 +1,4 @@
+,port_code,port_name,port_lat,port_lon,port_contact,port_url,port_addr,avg_working_time,avg_waiting_time
+0,KRICN,인천항,37.46,126.63,032-890-8000,https://www.icpa.or.kr/index.do,인천광역시 중구 항동7가,10.4,10.4
+1,KRPUS,부산항,35.11,129.05,051-999-3000,https://www.busanpa.com/kor/Main.do,부산광역시 동구 충장대로 206,10.75,19.55
+2,KRBNP,부산신항,35.08,128.83,051-999-3000,https://www.busanpa.com/kor/Main.do,부산광역시 강서구 신항남로 372,10.15,17.92
